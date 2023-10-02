@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1087790138656047145/1158507103393165312/handsome-confident-smiling-man-with-hands-crossed-chest.jpg?ex=651c7f51&is=651b2dd1&hm=5c7af8c4610c735ce17a8aaaac857d1e74eeb7ba9e874f1d5704b906c264ad02&)
+
 
 <h1 align="center">Hi 👋, I'm GND</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>

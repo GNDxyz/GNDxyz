@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://instagram.com/gnd.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gnd.xyz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gnd" height="30" width="40" /></a>
-<a href="https://discord.gg/zalim" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1041034761302454432/1158516841564618964/youtube.png?ex=651c8863&is=651b36e3&hm=53ccc516692bb857f972865648a3ac728aaadb7a0fdf311c362528561c37524f&" alt="discord" height="30" width="40" /></a>
+<a href="https://dc.zalimlar.tech" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1041034761302454432/1158516841564618964/youtube.png?ex=651c8863&is=651b36e3&hm=53ccc516692bb857f972865648a3ac728aaadb7a0fdf311c362528561c37524f&" alt="discord" height="30" width="40" /></a>
 <a href="https://zalimlar.tech"arget="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1087790138656047145/1158515309897064448/youtube.png?ex=651c86f6&is=651b3576&hm=4de9e1c43de92799addf5351d9682887d1932a967534c35894fedfdb49125099&"   alt="zalımlar" height="30" width="40"  /></a>
 
 </p>
